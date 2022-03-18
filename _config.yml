@@ -15,10 +15,11 @@ author: Tina Schimmel
 
 navbar-links:
   Agenda: "agenda"
-  # Aktion:
-    # - Workshops: "https://beautifuljekyll.com"
-    # - Beratung: "https://www.markdowntutorial.com/"
-  Aktion: "https://deanattali.com"
+  Agent*innen:
+    - Schimmel: "schimmel"
+    - Tina: "tina"
+    - Can: "can"
+  Aktion: "aktion"
 
 # --- Logo --- #
 

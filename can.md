@@ -1,0 +1,2 @@
+### Can 
+Unsere stille Seele mit besonderem Gespür dafür, wo der Schuh drückt. Setzt sich für mehr Körperbewusstsein und gegen die Abgründe der gesellschaftlichen Bildschirmobsession ein. Physiotherapeut_in und nebenbei Tattoo-Künstler_in.                                 

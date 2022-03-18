@@ -9,12 +9,12 @@
 title: Agentur gegen Arbeit
 
 # Your name to show in the footer
-author: Some Person
+author: Tina Schimmel
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Agenda"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
